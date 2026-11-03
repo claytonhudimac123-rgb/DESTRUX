@@ -3,3 +3,5 @@ A game where you destroy and BLOW THINGS UP earn money buy upgrades/tool and des
 
 
 Go to releases for download, if you cant find it: https://github.com/claytonhudimac123-rgb/DESTRUX/releases/tag/V-alpha-0.0.1
+
+if using the source code for client then use the new one
